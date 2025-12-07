@@ -13,8 +13,3 @@ I love building things that reflect who I am — projects that challenge me, pus
 
 ---
 
-## 🎯 Goals
-- Become a world-class  developer  
-- Maintain a consistent physical and mental routine — staying focused, disciplined, and balanced  
-- Keep learning, keep building, keep improving  
-
